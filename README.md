@@ -1,7 +1,7 @@
 # Place_Recognition
 Appearance-Based Place Recognition
 
-In this project two already implemented libraries called DBoW and DLoopDetector will be explored and examined. 
+In this project two already implemented libraries called DBoW and DLoopDetector are used. 
 The former library contains a bag of visual words model implementation while the latter uses loop detection methods
 for identifying loop closures.
 
