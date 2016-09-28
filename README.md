@@ -14,5 +14,4 @@ use of DBoW library.
 After obtaining the most similar frames to a given frame, the system performs temporal and 
 geometrical checks implemented in DLoopDetector library to identify if a loop closure exists (a location that has 
 been visited before). If the system identifies a loop closure, a match representing the same location from a 
-previous visit should be returned. Once a match is detected, the system localizes against a map and identifies 
-it’s position relative to that map.
+previous visit should be returned.
