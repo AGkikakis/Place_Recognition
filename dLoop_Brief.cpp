@@ -3,6 +3,7 @@
  * Inputs:
  * 	@VOC_FILE : is the file containing the vocabulary to use
  *  Example : ./dloopdetector_Brief path/
+ * Uses FAST for feature extraction and BRIEF for feature description
  */
 
 #include <iostream>
