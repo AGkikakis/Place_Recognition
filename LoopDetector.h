@@ -6,7 +6,8 @@
  *	:@ a pose file
  *	:@ widht of the frames
  *	:@ height of the frames
- * Exctaracts the features from the frames sequentially and searches
+ *
+ * Extracts the features from a set of frames sequentially and searches
  * for loops in each new given frame
  */
 
