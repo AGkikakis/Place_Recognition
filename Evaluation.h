@@ -4,7 +4,7 @@
  * Author: Antony Gkikakis
  * Description: Evaluates the perfomance of the DLoopDetector algorithm
  *
- * This file is usedd for evaluating the performance of the DLoopDetector
+ * This file is used for evaluating the performance of the DLoopDetector
  * algorithm.
  * It stores the coordinates of the location of each frame as also the location 
  * of the matched frame and determines based on the euclidian distance if the 
