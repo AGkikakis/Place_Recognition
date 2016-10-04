@@ -15,3 +15,5 @@ After obtaining the most similar frames to a given frame, the system performs te
 geometrical checks implemented in DLoopDetector library to identify if a loop closure exists (a location that has 
 been visited before). If the system identifies a loop closure, a match representing the same location from a 
 previous visit should be returned.
+
+The software developed in this repository uses DBoW2 and DLoopDetector libraries that can be found at http://webdiis.unizar.es/~dorian/index.php?p=3
