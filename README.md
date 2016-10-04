@@ -16,4 +16,6 @@ geometrical checks implemented in DLoopDetector library to identify if a loop cl
 been visited before). If the system identifies a loop closure, a match representing the same location from a 
 previous visit should be returned.
 
+File DLoopDetector contains the main functionality of the system.
+
 The software developed in this repository uses DBoW2 and DLoopDetector libraries that can be found at http://webdiis.unizar.es/~dorian/index.php?p=3
