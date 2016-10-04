@@ -18,4 +18,4 @@ previous visit should be returned.
 
 File **LoopDetector.h** contains the main functionality of the system.
 
-The software developed in this repository uses DBoW2 and DLoopDetector libraries that can be found at http://webdiis.unizar.es/~dorian/index.php?p=3
+The software developed in this repository uses DBoW2 and DLoopDetector libraries that can be found at http://webdiis.unizar.es/~dorian/index.php?p=3 and is not included in this repository.
